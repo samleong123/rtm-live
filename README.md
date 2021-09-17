@@ -44,6 +44,6 @@ This playlist **contain 8 channels with HLS + MPEG-DASH manifest.**
 Create an issue if you experienced any problem that didn't stated in README.md
 
 ## Credit
-1. [Thisistyx](https://github.com/thisistyx)
+1. [weareblahs](https://github.com/weareblahs)
 2. [rtmklik](https://rtmklik.rtm.gov.my)
 
