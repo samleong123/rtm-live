@@ -16,6 +16,8 @@ This playlist contain EPG from [weareblahs/epg/rtmklik.xml](https://github.com/w
 
 This playlist use mirrored version located at [samleong123/rtm-live/rtmklik.xml](https://rtm.samsam123.tk/rtmklik.xml).
 
+Github Actions of this repo will download the EPG from [weareblahs/epg/rtmklik.xml](https://github.com/weareblahs/epg/raw/master/rtmklik.xml) everyday.
+
 Channel code/number in this playlist:
 1. TV1 - RTMK01
 2. TV2 - RTMK02
