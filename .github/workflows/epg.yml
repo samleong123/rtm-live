@@ -47,8 +47,8 @@ jobs:
           git config --global user.email leongkaisheng8@gmail.com
           git config --global user.name samleong123
           git add .
-          git push origin master
           git commit -m "Update new EPG" 
+          git push origin master
       
       - name: commit
         uses: ad-m/github-push-action@master
