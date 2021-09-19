@@ -1,4 +1,4 @@
-name: Download CCTV EPG
+name: Download RTM EPG
 
 # Controls when the action will run. 
 on:
@@ -47,6 +47,7 @@ jobs:
           git config --global user.email leongkaisheng8@gmail.com
           git config --global user.name samleong123
           git add .
+          git push origin master
           git commit -m "Update new EPG" 
       
       - name: commit
