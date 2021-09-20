@@ -7,6 +7,7 @@ Watch 8 RTM Channel : TV1 , TV2 , TV Okey , Berita RTM , Sukan RTM , TV6 , Parli
 2. This playlist **isn't geo-restricted** , you can play it with any country IP.
 3. This playlist **isn't affiliated with https://rtmklik.rtm.gov.my  !**
 4. This playlist uses ```#EXTVLCOPT:http-referrer & #EXTVLCOPT:http-user-agent & |Referer``` to define the correct referer and user-agent. Your IPTV player must support these tags in order to let this playlist work smoothly.
+5. Date & Time in UTC+08 when the EPG is downloaded to this repo via Github Actions is available at [here](http://rtm.samsam123.tk/Date%20%26%20Time%20UTC%20%2B08.txt).
 
 ## Where to get this playlist
 Add this url : [https://rtm.samsam123.tk/rtm-live.m3u8](https://rtm.samsam123.tk/rtm-live.m3u8) into your favourite IPTV apps and you are good to go.
