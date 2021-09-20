@@ -16,4 +16,7 @@ echo -e "\e[1;31m [INFO] Cleaning up \e[0m"
 rm *.tar.gz
 rm aria2c
 
+echo -e "\e[1;31m [INFO] Generating Date & Time file in UTC+08 \e[0m"
+echo "`env TZ=UTC-08 date`" > "Date & Time UTC +08.txt"
+
 echo -e "\e[1;31m [INFO] Done \e[0m"
