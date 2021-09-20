@@ -48,7 +48,6 @@ jobs:
           git config --global user.name samleong123
           git add .
           git commit -m "Update new EPG" 
-          git push origin master
       
       - name: commit
         uses: ad-m/github-push-action@master
