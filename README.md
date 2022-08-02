@@ -1,4 +1,4 @@
-![Cover](https://rtm.samsam123.tk/Channel%20Logo/rtm_logo.46f5fe40.png)
+![Cover](https://rtm.samsam123.name.my/Channel%20Logo/rtm_logo.46f5fe40.png)
 # RTM Live
 Watch 8 RTM Channel : TV1 , TV2 , TV Okey , Berita RTM , Sukan RTM , TV6 , Parlimen Dewan Rakyat , Parlimen Dewan Negara on any IPTV players
 
@@ -7,15 +7,15 @@ Watch 8 RTM Channel : TV1 , TV2 , TV Okey , Berita RTM , Sukan RTM , TV6 , Parli
 2. This playlist **isn't geo-restricted** , you can play it with any country IP.
 3. This playlist **isn't affiliated with https://rtmklik.rtm.gov.my  !**
 4. This playlist uses ```#EXTVLCOPT:http-referrer & #EXTVLCOPT:http-user-agent & |Referer``` to define the correct referer and user-agent. Your IPTV player must support these tags in order to let this playlist work smoothly.
-5. Date & Time in UTC+08 when the EPG is downloaded to this repo via Github Actions is available at [here](http://rtm.samsam123.tk/Date%20%26%20Time%20UTC%20%2B08.txt).
+5. Date & Time in UTC+08 when the EPG is downloaded to this repo via Github Actions is available at [here](http://rtm.samsam123.name.my/Date%20%26%20Time%20UTC%20%2B08.txt).
 
 ## Where to get this playlist
-Add this url : [https://rtm.samsam123.tk/rtm-live.m3u8](https://rtm.samsam123.tk/rtm-live.m3u8) into your favourite IPTV apps and you are good to go.
+Add this url : [https://rtm.samsam123.name.my/rtm-live.m3u8](https://rtm.samsam123.name.my/rtm-live.m3u8) into your favourite IPTV apps and you are good to go.
 
 ## EPG
 This playlist contain EPG from [weareblahs/epg/rtmklik.xml](https://github.com/weareblahs/epg/raw/master/rtmklik.xml).
 
-This playlist use mirrored version located at [samleong123/rtm-live/rtmklik.xml](https://rtm.samsam123.tk/rtmklik.xml).
+This playlist use mirrored version located at [samleong123/rtm-live/rtmklik.xml](https://rtm.samsam123.name.my/rtmklik.xml).
 
 Github Actions of this repo will download the EPG from [weareblahs/epg/rtmklik.xml](https://github.com/weareblahs/epg/raw/master/rtmklik.xml) everyday.
 
